@@ -23,7 +23,7 @@
     "test:watch": "yarn jest --watchAll"
   },
   "peerDependencies": {
-    "@babel/runtime": "^7.3.4",
+    "@babel/runtime": "^7.8.3",
     "pebble-shared": "^1.0.5",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
