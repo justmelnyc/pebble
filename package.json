@@ -33,7 +33,7 @@
     "@rollup/plugin-replace": "^2.2.1",
     "@storybook/addon-a11y": "^5.3.9",
     "@storybook/addon-actions": "^5.3.9",
-    "@storybook/addon-backgrounds": "^5.2.8",
+    "@storybook/addon-backgrounds": "^5.3.9",
     "@storybook/addon-centered": "^5.2.8",
     "@storybook/addon-console": "^1.2.1",
     "@storybook/addon-info": "^5.2.8",
