@@ -65,7 +65,7 @@
     "babel-plugin-emotion": "^10.0.14",
     "babel-plugin-require-context-hook": "^1.0.0",
     "chokidar-cli": "^2.1.0",
-    "codecov": "^3.6.1",
+    "codecov": "3.6.3",
     "colors": "^1.4.0",
     "combos": "^0.2.0",
     "commitizen": "^4.0.3",
